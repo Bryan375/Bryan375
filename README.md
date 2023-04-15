@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bryan Austyn Ichsan</h1>
-<h3 align="center">Enthusiastic and motivated software engineer with a strong foundation in Pythong & Java, eager to learn and contribute to impactful projects.</h3>
+<h3 align="center">Enthusiastic and motivated software engineer with a strong foundation in Python & Java, eager to learn and contribute to impactful projects.</h3>
 
 - 📫 How to reach me **bryanichsan5@gmail.com**
 
