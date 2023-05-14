@@ -22,9 +22,8 @@
         <!-- Technologies -->
         <!-- JavaScript -->
         <a href="https://github.com/Bryan375?tab=repositories" target="_blank"><img alt="JavaScript"
-                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+                        src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
         </a>
-<!--         https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white -->
         <!-- Python -->
         <a href="https://github.com/Bryan375?tab=repositories" target="_blank"><img alt="Python"
                         src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -35,11 +34,11 @@
         </a>
         <!-- React -->
         <a href="https://github.com/Bryan375?tab=repositories" target="_blank"><img alt="React"
-                        src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white">
+                        src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
         </a>
         <!-- TailwindCSS -->
         <a href="https://github.com/Bryan375?tab=repositories" target="_blank"><img alt="TailwindCSS"
-                        src="https://img.shields.io/badge/-TailwindCSS-10172a?style=flat-square&logo=Tailwindcss&logoColor=37bcf8">
+                        src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
         </a>
         <!-- PostgreSQL -->
         <a href="https://github.com/Bryan375?tab=repositories" target="_blank"><img alt="PostgreSQL"
