@@ -6,9 +6,10 @@
 </h3>
 
 <div align="center">
-  <img src="https://github.com/Bryan375/Bryan375/blob/032a5fa411585ac349279bcdaf1a5eca6a75f416/dev-working_rounded.gif" href="#" alt="CoDiNg RocKs"  width="60%"/><br> 
+  <img src="https://github.com/Bryan375/Bryan375/blob/032a5fa411585ac349279bcdaf1a5eca6a75f416/dev-working_rounded.gif" href="#" alt="CoDiNg RocKs"  width="60%"/>
 </div>
 
+<br/>
 
 <p align="center">
         <!-- Intro -->
