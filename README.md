@@ -37,25 +37,23 @@
         <a href="https://github.com/Bryan375?tab=repositories" target="_blank"><img alt="React"
                         src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
         </a>
-        <!-- TailwindCSS -->
-        <a href="https://github.com/Bryan375?tab=repositories" target="_blank"><img alt="TailwindCSS"
-                        src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-        </a>
         <!-- PostgreSQL -->
         <a href="https://github.com/Bryan375?tab=repositories" target="_blank"><img alt="PostgreSQL"
                         src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
         </a>
+        <!-- MongoDB --> 
+        <a href="https://github.com/Bryan375?tab=repositories" target="_blank"><img alt="MongoDB"
+                        src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+        </a>
+        <!-- Redis -->
+        <a href="https://github.com/Bryan375?tab=repositories" target="_blank"><img alt="MongoDB"
+                        src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
+        </a>
 </p>
 
 <!-- Details Section -->
-<details align="center">
-    <summary> <samp>&#9776; More</samp></summary>
+<div align="center">
     <p align="center">
-        <br>
-        <!-- Activity Widget -->
-        <img alt="Bryan's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=Bryan375&show_icons=true&theme=radical" />
-        <br>
         <!-- Social Links -->
         <p>Find me on</p>
         <!-- Mail -->
@@ -71,7 +69,7 @@
                 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
         </a>
     </p>
-</details>
+</div>
 <br>
 
 <!-- Footer -->
